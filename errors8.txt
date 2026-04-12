@@ -1,0 +1,367 @@
+﻿src/app/dashboard/tasks/page.tsx(58,10): error TS17008: JSX element 'div' has no corresponding closing tag.
+src/app/dashboard/tasks/page.tsx(137,18): error TS17008: JSX element 'div' has no corresponding closing tag.
+src/app/dashboard/tasks/page.tsx(155,22): error TS17008: JSX element 'div' has no corresponding closing tag.
+src/app/dashboard/tasks/page.tsx(165,30): error TS17008: JSX element 'label' has no corresponding closing tag.
+src/app/dashboard/tasks/page.tsx(172,5): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(172,35): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(172,79): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(176,43): error TS1003: Identifier expected.
+src/app/dashboard/tasks/page.tsx(176,45): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(176,51): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(177,34): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(179,48): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(180,36): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(182,48): error TS1003: Identifier expected.
+src/app/dashboard/tasks/page.tsx(182,83): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(185,58): error TS1003: Identifier expected.
+src/app/dashboard/tasks/page.tsx(185,84): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(188,19): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(189,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(190,40): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(191,93): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(193,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(194,20): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(195,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(198,51): error TS1003: Identifier expected.
+src/app/dashboard/tasks/page.tsx(198,53): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(199,44): error TS1003: Identifier expected.
+src/app/dashboard/tasks/page.tsx(200,9): error TS1005: '...' expected.
+src/app/dashboard/tasks/page.tsx(200,14): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(208,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(208,6): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(209,14): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(217,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(221,48): error TS1003: Identifier expected.
+src/app/dashboard/tasks/page.tsx(221,50): error TS1005: '...' expected.
+src/app/dashboard/tasks/page.tsx(221,54): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(221,82): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(221,83): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(221,91): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(221,111): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(222,48): error TS1003: Identifier expected.
+src/app/dashboard/tasks/page.tsx(222,50): error TS1005: '...' expected.
+src/app/dashboard/tasks/page.tsx(222,54): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(222,82): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(222,83): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(222,91): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(222,111): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(223,46): error TS17008: JSX element 'any' has no corresponding closing tag.
+src/app/dashboard/tasks/page.tsx(229,55): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(230,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(231,40): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(235,26): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(235,40): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(239,38): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(239,65): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(239,82): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(241,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(242,74): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(244,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(245,41): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(246,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(247,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(249,40): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(250,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(253,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(256,27): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(259,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(264,32): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(264,52): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(266,37): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(267,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(268,75): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(270,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(271,39): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(272,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(273,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(275,74): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(276,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(277,44): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(280,42): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(280,54): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(285,59): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(287,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(288,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(290,21): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(292,21): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(293,25): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(296,21): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(297,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(298,85): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(299,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(301,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(304,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(306,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(311,17): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(312,21): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(315,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(316,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(317,81): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(318,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(322,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(325,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(332,37): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(333,32): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(333,52): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(334,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(335,91): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(337,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(338,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(342,17): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(343,31): error TS17008: JSX element 'SetStateAction' has no corresponding closing tag.
+src/app/dashboard/tasks/page.tsx(345,42): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(347,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(348,13): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(348,38): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(348,46): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(348,93): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(349,66): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(349,68): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(353,110): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(353,163): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(355,76): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(360,15): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(361,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(362,32): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(366,16): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(367,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(368,46): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(369,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(369,34): error TS1003: Identifier expected.
+src/app/dashboard/tasks/page.tsx(370,35): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(370,54): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(370,95): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(370,108): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(371,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(494,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(497,49): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(497,55): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(498,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(501,38): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(501,46): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(501,67): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(502,66): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(502,68): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(622,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(624,19): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(626,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(633,24): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(633,70): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(634,21): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(635,90): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(636,45): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(637,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(641,38): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(642,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(644,17): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(644,52): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(647,37): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(648,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(650,29): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(650,60): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(654,51): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(654,58): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(659,67): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(660,21): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(670,84): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(674,103): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(677,25): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(678,29): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(679,33): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(681,111): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(683,33): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(684,29): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(685,25): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(686,21): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(688,91): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(689,21): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(691,94): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(692,21): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(698,27): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(711,21): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(712,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(717,40): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(719,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(723,39): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(724,21): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(724,71): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(725,27): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(728,21): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(730,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(732,21): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(732,33): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(732,41): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(738,25): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(738,59): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(739,31): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(742,25): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(745,21): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(746,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(747,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(753,19): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(754,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(755,34): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(756,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(757,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(761,20): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(762,44): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(763,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(764,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(766,43): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(767,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(779,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(781,37): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(782,100): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(783,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(785,58): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(786,27): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(789,78): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(789,88): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(790,84): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(790,94): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(791,79): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(791,89): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(795,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(796,87): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(797,58): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(800,73): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(803,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(806,26): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(809,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(811,22): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(818,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(820,58): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(822,26): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(824,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(837,31): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(837,155): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(838,37): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(839,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(840,68): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(842,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(843,33): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(844,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(845,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(848,40): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(849,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(852,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(855,27): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(858,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(862,32): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(862,52): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(863,35): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(863,44): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(863,97): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(863,100): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(864,34): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(865,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(866,66): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(867,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(868,39): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(869,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(870,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(872,55): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(873,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(876,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(878,26): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(878,34): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(880,45): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(880,52): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(882,25): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(882,35): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(883,35): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(883,59): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(883,79): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(885,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(886,58): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(887,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(888,41): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(889,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(890,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(892,54): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(893,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(893,36): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(898,47): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(899,52): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(899,61): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(899,114): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(899,117): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(901,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(904,18): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(908,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(912,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(914,33): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(914,85): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(920,37): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(921,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(922,70): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(924,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(925,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(927,53): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(928,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(929,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(931,33): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(931,87): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(935,37): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(936,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(937,68): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(940,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(941,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(943,54): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(944,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(945,18): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(949,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(953,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(955,33): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(955,84): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(960,37): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(961,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(962,69): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(965,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(966,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(968,54): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(969,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(970,18): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(974,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(978,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(985,37): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(986,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(987,68): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(990,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(991,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(993,53): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(994,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(995,49): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(1005,74): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(1007,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1011,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1012,58): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(1014,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1015,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1017,58): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(1018,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(1019,18): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(1024,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1030,13): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(1030,25): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(1030,39): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1040,17): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(1041,21): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(1044,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1046,119): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(1047,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1048,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1049,115): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(1050,13): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1055,27): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(1058,17): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1063,37): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(1064,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1065,73): error TS1005: '}' expected.
+src/app/dashboard/tasks/page.tsx(1067,9): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1068,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1071,44): error TS1382: Unexpected token. Did you mean `{'>'}` or `&gt;`?
+src/app/dashboard/tasks/page.tsx(1076,9): error TS1109: Expression expected.
+src/app/dashboard/tasks/page.tsx(1100,5): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1788,1): error TS1381: Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+src/app/dashboard/tasks/page.tsx(1790,1): error TS1005: '</' expected.

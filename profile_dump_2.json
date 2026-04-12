@@ -1,0 +1,21 @@
+[
+  "id",
+  "email",
+  "full_name",
+  "role",
+  "student_id",
+  "semester",
+  "section",
+  "department",
+  "designation",
+  "employee_id",
+  "expertise",
+  "phone",
+  "bio",
+  "avatar_url",
+  "is_active",
+  "is_verified",
+  "created_at",
+  "updated_at",
+  "last_login_at"
+]

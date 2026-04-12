@@ -1,0 +1,25 @@
+{
+  "version": 1.1,
+  "atDirectives": [
+    {
+      "name": "@theme",
+      "description": "Tailwind V4 Theme directive"
+    },
+    {
+      "name": "@tailwind",
+      "description": "Tailwind base injector"
+    },
+    {
+      "name": "@source",
+      "description": "Tailwind custom source"
+    },
+    {
+      "name": "@variant",
+      "description": "Tailwind variant"
+    },
+    {
+      "name": "@plugin",
+      "description": "Tailwind plugin import"
+    }
+  ]
+}
